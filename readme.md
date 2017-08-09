@@ -109,6 +109,10 @@ Defines the git down arrow symbol. The default value is `⇣`.
 
 Defines the git up arrow symbol. The default value is `⇡`.
 
+### `PURE_GIT_DIRTY_SYMBOL`
+
+Defines the git dirty symbol. The default value is `*`.
+
 ## Example
 
 ```sh
